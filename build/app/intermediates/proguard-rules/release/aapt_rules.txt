@@ -1,0 +1,6 @@
+# Referenced at /home/ilyos/MyProject/Flutter/EVO IT/tezbazar/tezbazar/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/ilyos/MyProject/Flutter/EVO IT/tezbazar/tezbazar/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:24
+-keep class com.example.tezbazar.MainActivity { <init>(); }
+# Referenced at /home/ilyos/MyProject/Flutter/EVO IT/tezbazar/tezbazar/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:19
+-keep class io.flutter.app.FlutterApplication { <init>(); }

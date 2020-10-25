@@ -1,0 +1,4 @@
+#Thu Aug 06 22:22:05 UZT 2020
+base.0=/home/ilyos/MyProject/Flutter/EVO IT/tezbazar/tezbazar/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
